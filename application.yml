@@ -1,3 +1,6 @@
+spring:
+application:
+name: Config-default
   datasource:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
     password: Passw0rd@1234567
