@@ -5,3 +5,5 @@ spring:
     username: optimus
     password: Passw0rd@1234567
   jpa.show-sql: true
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration
