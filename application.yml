@@ -3,5 +3,5 @@ spring:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
     url: jdbc:sqlserver://optimusdevmi.a59544804564.database.windows.net;databaseName=optimus-sql-dev
     username: optimus
-     password: Passw0rd@1234567
+    password: Passw0rd@1234567
   jpa.show-sql: true
